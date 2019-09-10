@@ -59,7 +59,7 @@ public class Ventana extends javax.swing.JFrame {
         jLabel1.setText("jLabel1");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setBackground(new java.awt.Color(153, 255, 51));
+        setBackground(new java.awt.Color(0, 0, 255));
 
         entrada.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         entrada.setForeground(new java.awt.Color(0, 102, 51));
