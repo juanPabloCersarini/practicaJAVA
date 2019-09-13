@@ -35,7 +35,7 @@ public class Ventana extends javax.swing.JFrame {
         j++;
         String resultado ="";
         for (int i=0; i<j;i++){
-            if (vector[i].indexOf("o")>-1){
+            if (vector[i].indexOf("ola")>-1){
                 resultado = resultado + " " + vector[i];
             } 
         }
