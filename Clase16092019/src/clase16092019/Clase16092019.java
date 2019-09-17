@@ -42,7 +42,6 @@ public class Clase16092019 {
     public static int[][] matrizInvertida(int[][]X){
          
         int nueva[][]= new int [X[0].length][X.length];
-        //System.out.println(X.length + " " + X[0].length);
         for (int i=0; i<X.length;i++){
             for(int j=0; j<X[i].length;j++){
                 nueva[j][i]=X[i][j];
